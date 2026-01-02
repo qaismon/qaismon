@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
  Detail-oriented Software Developer Intern with a strong foundation in modern web<br>technologies including React, Redux, and Tailwind CSS. Currently enhancing full-stack<br>capabilities at Bridgeon Solutions. Proven track record of high-level organization and<br>document accuracy, now applied to writing clean, maintainable code and building<br>responsive e-commerce solutions.
 
 
