@@ -1,5 +1,5 @@
 # About Me:
- Detail-oriented Software Developer with a strong foundation in modern web<br>technologies including React, Redux, and Tailwind CSS. Currently enhancing full-stack<br>capabilities at Bridgeon Solutions. Proven track record of high-level organization and<br>document accuracy, now applied to writing clean, maintainable code and building<br>responsive e-commerce solutions.
+Backend-focused Full Stack Developer with hands-on experience building scalable web applications using Node.js, Express, MongoDB, and React. Strong in designing REST APIs, implementing authentication, and developing real-time systems using WebSockets. Built production-style projects including a real-time collaboration platform with end-to-end encryption and AI-assisted features. Focused on writing clean, maintainable code and continuously improving system performance and architecture.
 
 
 ## 🌐 Socials:
