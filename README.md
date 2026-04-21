@@ -27,9 +27,6 @@ Recently, I’ve been building and deploying full-stack applications with real-t
 ---
 
 If you're building something interesting or need a backend-heavy developer, feel free to reach out.
-
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-qais-mon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qaismon127@gmail.com) 
 
 
