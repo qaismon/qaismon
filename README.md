@@ -1,33 +1,98 @@
-## 👋 Hi, I'm Muhammed Qais
+# Hey, I'm Muhammed Qais 
 
-Backend developer focused on building real-time systems and performance-driven APIs.
+Backend-focused Full-Stack Developer passionate about building **scalable systems**, **real-time infrastructure**, and **performance-critical applications**.
 
-I work mainly with Node.js, WebSockets, Redis, and MongoDB — designing systems that handle async workloads, real-time communication, and optimized data flow. I’m especially interested in how backend systems behave under load, and I spend a lot of time improving latency, reliability, and scalability.
+I build systems that handle:
+- High concurrency
+- Real-time communication
+- Distributed workflows
+- Async job processing
+- Fault tolerance under load
 
-Recently, I’ve been building and deploying full-stack applications with real-time features and AI integrations, focusing on clean architecture and measurable performance improvements.
-
-### What I work with
-- Node.js, Express.js
-- WebSockets, Socket.io
-- Redis (caching, sessions)
-- MongoDB (query optimization)
-- Docker, AWS EC2, Nginx
-
-### What I care about
-- API performance & latency
-- Concurrency and async systems
-- Real-time architectures
-- Scalable backend design
-
-### Current focus
-- Scaling WebSocket systems (Redis Pub/Sub, multi-instance setups)
-- Building production-ready backend systems (not just CRUD)
-- Going deeper into system design and distributed systems
+My focus is not just writing APIs — it's engineering systems that remain reliable when traffic, complexity, and scale increase.
 
 ---
 
-If you're building something interesting or need a backend-heavy developer, feel free to reach out.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-qais-mon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qaismon127@gmail.com) 
+## What I Bring
 
+- Design production-ready backend architectures
+- Build low-latency real-time systems
+- Optimize slow databases and APIs
+- Solve concurrency and scaling problems
+- Ship products end-to-end from architecture to deployment
 
+---
 
+## Tech Stack
+
+### Backend
+- Node.js
+- Express.js
+- TypeScript
+
+### Databases & Storage
+- MongoDB
+- Redis
+- PostgreSQL
+
+### Real-Time / Distributed Systems
+- WebSockets
+- Socket.io
+- BullMQ
+- WebRTC
+- Redis Pub/Sub
+
+### DevOps / Cloud
+- Docker
+- AWS EC2
+- Nginx
+- PM2
+- Git
+
+### Frontend
+- React
+- Next.js
+- Redux
+- Tailwind CSS
+
+---
+
+# Featured Projects
+
+## Seatzo — Distributed Event Ticketing Platform
+Tech: React, Node.js, MongoDB, Redis, Stripe, BullMQ
+
+Built a distributed ticket-booking platform solving real-world concurrency problems.
+
+### Key Engineering Work
+- Redis-based seat locking to prevent double booking
+- Saga-based payment orchestration
+- Automatic lock expiry and recovery
+- Stripe webhook verification
+- Idempotent payment handling
+- RBAC dashboards
+
+---
+
+## RevChat — Real-Time AI Collaboration Platform
+Tech: Next.js, Node.js, Socket.io, WebRTC, Redis
+
+Real-time messaging and AI-assisted code review platform.
+
+### Highlights
+- ~500ms messaging latency
+- 80–90 req/sec sustained
+- WebRTC voice calls
+- End-to-end encryption
+- AI code review in <2 seconds
+- AWS deployment with Nginx reverse proxy
+
+---
+
+## Let's Connect
+
+If you're building something technically challenging—or need someone who enjoys solving backend scaling problems—let’s talk.
+
+- LinkedIn: linkedin.com/in/muhammed-qais-mon
+- Email: qaismon127@gmail.com
+- GitHub: github.com/qaismon
