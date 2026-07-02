@@ -93,6 +93,6 @@ Real-time messaging and AI-assisted code review platform.
 
 If you're building something technically challenging—or need someone who enjoys solving backend scaling problems—let’s talk.
 
+- Portfolio: https://qaismon.github.io/portfolio/
 - LinkedIn: linkedin.com/in/muhammed-qais-mon
 - Email: qaismon127@gmail.com
-- GitHub: github.com/qaismon
